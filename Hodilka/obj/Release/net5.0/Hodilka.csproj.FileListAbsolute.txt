@@ -1,0 +1,15 @@
+D:\Projects\Brodilka_final\Hodilka_Final\Hodilka\Hodilka\Hodilka\bin\Release\net5.0\Hodilka.exe
+D:\Projects\Brodilka_final\Hodilka_Final\Hodilka\Hodilka\Hodilka\bin\Release\net5.0\Hodilka.deps.json
+D:\Projects\Brodilka_final\Hodilka_Final\Hodilka\Hodilka\Hodilka\bin\Release\net5.0\Hodilka.runtimeconfig.json
+D:\Projects\Brodilka_final\Hodilka_Final\Hodilka\Hodilka\Hodilka\bin\Release\net5.0\Hodilka.runtimeconfig.dev.json
+D:\Projects\Brodilka_final\Hodilka_Final\Hodilka\Hodilka\Hodilka\bin\Release\net5.0\Hodilka.dll
+D:\Projects\Brodilka_final\Hodilka_Final\Hodilka\Hodilka\Hodilka\bin\Release\net5.0\ref\Hodilka.dll
+D:\Projects\Brodilka_final\Hodilka_Final\Hodilka\Hodilka\Hodilka\bin\Release\net5.0\Hodilka.pdb
+D:\Projects\Brodilka_final\Hodilka_Final\Hodilka\Hodilka\Hodilka\obj\Release\net5.0\Hodilka.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Brodilka_final\Hodilka_Final\Hodilka\Hodilka\Hodilka\obj\Release\net5.0\Hodilka.AssemblyInfoInputs.cache
+D:\Projects\Brodilka_final\Hodilka_Final\Hodilka\Hodilka\Hodilka\obj\Release\net5.0\Hodilka.AssemblyInfo.cs
+D:\Projects\Brodilka_final\Hodilka_Final\Hodilka\Hodilka\Hodilka\obj\Release\net5.0\Hodilka.csproj.CoreCompileInputs.cache
+D:\Projects\Brodilka_final\Hodilka_Final\Hodilka\Hodilka\Hodilka\obj\Release\net5.0\Hodilka.dll
+D:\Projects\Brodilka_final\Hodilka_Final\Hodilka\Hodilka\Hodilka\obj\Release\net5.0\ref\Hodilka.dll
+D:\Projects\Brodilka_final\Hodilka_Final\Hodilka\Hodilka\Hodilka\obj\Release\net5.0\Hodilka.pdb
+D:\Projects\Brodilka_final\Hodilka_Final\Hodilka\Hodilka\Hodilka\obj\Release\net5.0\Hodilka.genruntimeconfig.cache
